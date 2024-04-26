@@ -1,0 +1,5 @@
+# .github
+
+## Communication
+
+Discord: ...
